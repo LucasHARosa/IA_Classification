@@ -5,7 +5,7 @@
 # Redes Neurais artificiais: Classificação 
 
 <p align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Neural_network.svg/1200px-Neural_network.svg.png" width="600px">
+    <img src="https://static.imasters.com.br/wp-content/uploads/2016/06/redes-1.png" width="600px">
 </p>
 
 ## Introdução
